@@ -1,0 +1,10 @@
+{
+  "name": "larning-botkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gomesuit",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.5.7"
+  }
+}
